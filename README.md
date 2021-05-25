@@ -1,11 +1,11 @@
 # Projetos-na-Trybe
-1. Projeto Lessons Learned
+1.  Projeto Lessons Learned
 Habilidades Utilizadas
 - Utiizar HTML para construir páginas WEB.
 - Utilizar HTML semântico para tornar sua página mais acessível e melhor ranqueada.
 - Utilizar CSS para adicionar estilo e posicionar elementos.
 
-2. Projeto Playgtound Functions
+2.  Projeto Playground Functions
 Habilidades Utilizadas
 - Escrever códigos em JavaScript que usam variáveis e tipos primitivos;
 - Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código;
@@ -17,3 +17,31 @@ Habilidades Utilizadas
 - Manipular objetos;
 - Utilizar o comando for/in ;
 - Utilizar funções para organizar e estruturar o seu código;
+
+3.  Projeto Pixels Art
+Habilidades utilizadas
+- Manipular o DOM
+- Manipular o Javascript
+
+    Projeto To-Do List
+Habilidades utilizadas
+- Manipular CSS
+- Manipular Javascript
+
+    Projeto Color Guess
+Habilidades utilizadas
+- Manipular o DOM.
+- Manipular o Javascript.
+- Manipular o CSS.
+
+    Projeto Meme Generator
+Habilidades utilizadas
+- Manipular o DOM.
+- Manipular o Javascript.
+- Manipular o CSS.
+
+    Projeto Mistery Letter
+Habilidades utilizadas
+- Manipular o DOM.
+- Manipular o Javascript.
+- Manipular o CSS.
