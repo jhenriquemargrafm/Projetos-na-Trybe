@@ -67,3 +67,10 @@ Habilidades utilizadas
 - Aprender a usar de forma conjunta as Higher Order Functions.
 - Interpretar testes unitários e produzir soluções que atendam a eles.
 
+11. Projeto Shopping Cart List
+Habilidades utilizadas
+- Fazer requisições a uma API (Application Programming Interface) do Mercado Livre;
+- Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
+- Trabalhar com funções assíncronas;
+
+
