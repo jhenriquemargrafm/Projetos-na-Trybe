@@ -53,9 +53,17 @@ Habilidades utilizadas
 - Criar regras CSS específicas para serem aplicadas a dispositivos móveis.
 - Construir páginas que alteram o seu layout de acordo com a orientação da tela.
 
-9. Projeto JS Unit Test
+9.  Projeto JS Unit Test
 Habilidades utilizadas
 - Escrever testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
 - A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
 - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
+
+10. Projeto Zoo Functions
+Habilidades utilizadas
+- Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6.
+- Utilizar as Higher Order Functions para manipular e criar arrays.
+- Escolher a Higher Order Function mais adequada para a obtenção de um resultado esperado.
+- Aprender a usar de forma conjunta as Higher Order Functions.
+- Interpretar testes unitários e produzir soluções que atendam a eles.
 
