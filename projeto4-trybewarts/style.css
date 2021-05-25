@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Playfair Display, serif;
+}
+
+body {
+  margin: 0 auto;
+  background-color: rgb(242, 243, 245);
+  position: relative;
+  height: 100vh;
+}
+
+.header {
+  background-color: rgb(50, 167, 145);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header img {
+  width: 50px;
+  height: 50px;
+}
+
+.header h1 {
+  font-weight: 700;
+  font-family: Playfair Display, serif;
+  color: white;
+}
+
+.header form input {
+  padding: 10px;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 15px 1px rgba(34, 34, 34, 0.05);
+}
+
+.header form input + input {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.header form button {
+  background-color: white;
+  color: rgb(66, 66, 66);
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  padding: 2.5px 30px;
+  font-size: 18px;
+  font-weight: 700;
+  transition: filter 0.2s ease-in-out;
+}
+
+.header form button:hover {
+  filter: brightness(0.9);
+}
+
+.trybewarts-login {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+
+.main-form {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+#evaluation-form {
+  display: flex;
+  border-radius: 3px;
+  margin-right: 20px;
+  flex-direction: column;
+  width: 675px;
+  align-items: flex-start;
+  justify-content: center;
+  border: none;
+}
+
+#evaluation-form #namensurname input {
+  padding: 10px;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 15px 1px rgba(34, 34, 34, 0.05);
+}
+
+#select-houses-form #registeremail input {
+  padding: 10px;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 15px 1px rgba(34, 34, 34, 0.05);
+  margin-right: 25px;
+}
+
+#evaluation-form #namensurname input + input {
+  margin-left: 20px;
+}
+
+#evaluation-form #select-houses-form {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
+
+#evaluation-form #select-houses {
+  display: flex;
+  flex-direction: column;
+  transform: translateY(-15px);
+}
+
+#evaluation-form #select-houses select {
+  padding: 10px;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 15px 1px rgba(34, 34, 34, 0.05);
+  background-color: white;
+  margin-right: 25px;
+  margin-top: 10px;
+}
+
+#evaluation-form #family-subjects-container {
+  margin-top: 20px;
+  width: 92%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#evaluation-form .select-family {
+  display: flex;
+  flex-direction: column;
+}
+
+#evaluation-form #rates {
+  margin-top: 20px;
+}
+
+#evaluation-form .textarea {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+#evaluation-form .textarea textarea {
+  width: 615px;
+  height: 150px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 15px 1px rgba(34, 34, 34, 0.05);
+}
+
+#evaluation-form .agreement {
+  margin-top: 20px;
+}
+
+#evaluation-form .enviar {
+  margin-top: 20px;
+}
+
+#evaluation-form .enviar button {
+  background-color: rgb(50, 167, 145);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  padding: 20px 40px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+#evaluation-form .enviar button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+#evaluation-form .enviar button:hover {
+  filter: brightness(0.9);
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
