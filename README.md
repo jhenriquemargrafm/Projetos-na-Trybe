@@ -23,33 +23,39 @@ Habilidades utilizadas
 - Manipular o DOM
 - Manipular o Javascript
 
-    Projeto To-Do List
+4.  Projeto To-Do List
 Habilidades utilizadas
 - Manipular CSS
 - Manipular Javascript
 
-    Projeto Color Guess
+5.  Projeto Color Guess
 Habilidades utilizadas
 - Manipular o DOM.
 - Manipular o Javascript.
 - Manipular o CSS.
 
-    Projeto Meme Generator
+6.  Projeto Meme Generator
 Habilidades utilizadas
 - Manipular o DOM.
 - Manipular o Javascript.
 - Manipular o CSS.
 
-    Projeto Mistery Letter
+7.  Projeto Mistery Letter
 Habilidades utilizadas
 - Manipular o DOM.
 - Manipular o Javascript.
 - Manipular o CSS.
 
-4.  Projeto Trybewarts
+8.  Projeto Trybewarts
 Habilidades utilizadas
 - Criar formulários em HTML.
 - Utilizar CSS Flexbox para criar layouts flexíveis.
 - Criar regras CSS específicas para serem aplicadas a dispositivos móveis.
 - Construir páginas que alteram o seu layout de acordo com a orientação da tela.
+
+9. Projeto JS Unit Test
+Habilidades utilizadas
+- Escrever testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
+- A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
+- Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
