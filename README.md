@@ -73,4 +73,10 @@ Habilidades utilizadas
 - Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
 - Trabalhar com funções assíncronas;
 
+12. Projeto Jest
+Habilidades utilizadas
+- Escrever testes para funções assíncronas;
+- Aplicar os seus conhecimentos acerca de testes utilizando o Jest;
+- "Mockar" funções;
+- "Mockar" APIs;
 
