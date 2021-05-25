@@ -1,0 +1,15 @@
+.ball {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+  border: black solid 1px;
+}
+
+#placar {
+  display: inline;
+}
+
+#score {
+  display: inline;
+}
