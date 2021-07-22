@@ -1,4 +1,4 @@
-# Projetos-na-Trybe
+# Projetos do módulo de Fundamentos na Trybe
 1.  Projeto Lessons Learned<br>
 Habilidades Utilizadas
 - Utiizar HTML para construir páginas WEB.
